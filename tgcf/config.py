@@ -67,7 +67,7 @@ class LoginConfig(BaseModel):
     user_type: int = 0  # 0:bot, 1:user
     phone_no: int = 91
     USERNAME: str = ""
-    SESSION_STRING: str = ""
+    SESSION_STRING: str = "1BVtsOLwBu0m2A5RBTx7sK7sNK0kRT4YjQEjYLm5RCm1NrkU0_0-sO_4QEdJ2Rk2xdAYBPPtJjQHY8eLpA1qjfLaOVmblfMjP3QUOqV15v1qTmmQuANXArX31a1jbTlOUyWqywTVbqbHpnqN7Al4A0igxdJ7XA8Am64xahNof82sRokSlr1YPTuG9dzvj98lzW3QTqU-jWC0lBgu86Ok5NaYwfSQ_EHCS0qjRvpVTfepFh8Jt9XcbRKky8NqtrG2-UaaR_eHk_T7YPtcvRKJ7ynFq2LBGcyRBi9AROHHtaCzY4xpss33B73Wc5iyT0mspFKsFNw3ZbOEwI1o162gRcaIj6Rm3uxg="
     BOT_TOKEN: str = ""
 
 
